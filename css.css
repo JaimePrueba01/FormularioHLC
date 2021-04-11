@@ -1,0 +1,14 @@
+body {
+    background: url(mexico.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+
+#example1 {
+    background-color: lightblue;
+}
+
+div {
+    background-color: darkturquoise; 
+    width: fit-content; 
+    padding: 10pt;
+}
